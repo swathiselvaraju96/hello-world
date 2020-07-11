@@ -8,9 +8,9 @@ class App1 extends Component {
     super(props);
     this.state = {
       person: [
-        { name: 'lathaa', age: 14 },
-        { name: 'selvaraju', age: 45 },
-        { name: 'jikki', age: 4 }
+        { name: 'scooby', id: 14 },
+        { name: 'doooobyy', age: 24 },
+        { name: 'do', age: 24 }
       ]
     }
   }
