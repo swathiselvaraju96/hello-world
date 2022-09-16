@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://swathiselvaraju96.github.io/hello-world",
   "dependencies": {
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^3.4.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
